@@ -95,6 +95,7 @@ function drawCircles() {
     // draw eight by eight particles + shift
     for(xcount = 1; xcount < 9; xcount++){
         for(ycount = 1; ycount < 9; ycount++){
+	// every particle gets their own shift factor so the movement appears random
             var rando = randNum( -1, 1);
             var shift = shiftfac*rando;
 

@@ -1,0 +1,56 @@
+// Teilchenmodell
+// particle model
+//
+// demonstrate a simple particle model for students where 
+// all matter is made of particles
+// all particles are in motion the whole time
+// increased temperature equals increased movement of the particles
+// This is my first JS script so bear with me 
+// 
+// 
+// open in browser (Chrome, Firefox)
+// up arrow: warmer + more red
+// down arrow: cooler + more blue
+// space bar: toggle pause
+//
+// to do:
+// add temp scale
+// add buttons
+// add gas - liquid - solid toggle button
+//
+// known bugs:
+// does not catch color codes. don't hit arrow key too many times. 
+//
+//
+// i taught myself JS today using this cool free tutorial: https://www.kirupa.com/html5/creating_simple_html5_canvas_animation.htm
+// so all the good parts I learnt from them	
+// the rest is from stackoverflow
+// many thanks 
+// this script is distributed under MIT License
+//
+//
+
+Visualisiert die Bewegung der Teilchen im Teilchenmodell
+Anleitung:
+
+im Browser öffnen (Chrome, Firefox)
+
+Stop/start: Leertaste
+heisser: Pfeil nach oben
+kälter: Pfeil nach unten
+
+geplant:
+Thermometer visualisieren
+Aggregatszustände zufügen
+mehr Knöpfe
+
+bugs:
+nicht zu oft auf Pfeil drücken, ich fange die color codes nicht ab. :D
+
+Dieses Skript ist nur für Leute geeignet, die gar nicht selber programmieren können. Jede/r andere könnte es selber besser machen.
+Gelernt mit diesem Tutorial: 
+https://www.kirupa.com/html5/creating_simple_html5_canvas_animation.htm
+und Stackoverflow
+
+Das Skript steht unter MIT Lizenz
+
